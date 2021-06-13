@@ -19,6 +19,14 @@ Once cloned, Install requirements by,
 pip3 install streamlit
 pip3 install pandas
 ```
+
+After requirements installed, run app using
+```bash
+  streamlit run app.py
+
+```
+Know my app is open in browser.
+
 ## Technology Stack
 
 1. Streamlit
