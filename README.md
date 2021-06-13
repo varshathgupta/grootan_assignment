@@ -1,7 +1,7 @@
 # Grootan Assignment
  Hello grootans! This is *Varshath Gupta S* from *PSNACET* 
  I have completed my assignment and these aditional details of my assignment.
- ## Assignment can be seen my works in two ways.
+ ## Assignment can be seen in two ways.
 
  ### 1) In heruko
   I have deploy my assignment in heruko you view by clicking below,
