@@ -27,6 +27,7 @@ After requirements installed, run  the app using
 
 ```
 Now my app is open in the browser.
+![first](src/image/1.png)
 
 ## Technology Stack
 
