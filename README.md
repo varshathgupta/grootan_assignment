@@ -2,6 +2,7 @@
  Hello grootans! This is **Varshath Gupta S** from **PSNACET**, 
  I have completed my assignment and these are the aditional details of my assignment.
  ## Video of my assignment
+ ![video](src/grootan_assignment.gif)
 
  ## Assignment can be seen in two ways.
 
