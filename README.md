@@ -27,7 +27,19 @@ After requirements installed, run  the app using
 
 ```
 Now my app is open in the browser.
+
 ![first](src/image/1.png)
+
+Upload data set either by *browse* or *drag and drop*
+
+![choose](src/image/2.png)
+
+Once it uploaded it shows the *heading of the dataset*.
+
+![heading](src/image/3.png)
+
+Finally you can select how many rows to display by using slider,
+![rows](src/image/4.png)
 
 ## Technology Stack
 
