@@ -44,8 +44,9 @@ Finally you can select how many rows to display by using slider,
 
 ## Technology Stack
 
-1. Streamlit
-2. Pandas
+1. Python3
+2. Streamlit
+3. Pandas
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
